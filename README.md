@@ -1,5 +1,6 @@
-# generate_react_redux_boliterate  
-- use yomen and vscode plugin/ coding-webide plugin to generate react redux boilterate
+# Generate_React_Redux_Boilerplate 
+this repo will do:
+- use yomen and vscode plugin/ coding-webide plugin to generate react redux Boilerplate
 - auto code split and server rending
 - module based management
 - use thunk or redux-saga as middleware
